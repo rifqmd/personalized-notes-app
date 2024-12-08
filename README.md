@@ -17,7 +17,7 @@ Buatlah aplikasi web menggunakan React yang dapat menambahkan dan menghapus cata
 - Data catatan disimpan cukup pada memori saja (akan hilang jika browser di-refresh).
 - Data catatan yang disimpan merupakan objek JavaScript dengan struktur berikut
 
-```json
+```
 {
   id: number | string,
   title: string,
@@ -29,7 +29,7 @@ Buatlah aplikasi web menggunakan React yang dapat menambahkan dan menghapus cata
 
 Berikut contoh data riilnya:
 
-```json
+```
 {
   id: 1,
   title: "Babel",
