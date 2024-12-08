@@ -2,6 +2,8 @@
 
 ## Proyek Akhir: Membangun Aplikasi Catatan Menggunakan React
 
+![Vite-React-12-08-2024_05_23_PM.png](public/Vite-React-12-08-2024_05_23_PM.png)
+
 Buatlah aplikasi web menggunakan React yang dapat menambahkan dan menghapus catatan. Agar lebih jelasnya, berikut 3 kriteria utama pada “Aplikasi Catatan Pribadi” yang harus Anda buat.
 
 ## Kriteria Utama 1: Mampu Menampilkan Daftar Catatan
